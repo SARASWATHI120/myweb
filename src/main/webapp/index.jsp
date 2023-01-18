@@ -11,7 +11,7 @@
 <body>
 
 <div class="container">
-  <h2>Button Styles</h2>
+  <h2>Button Pattern</h2>
   <button type="button" class="btn">Basic</button>
   <button type="button" class="btn btn-default">Default</button>
   <button type="button" class="btn btn-primary">Primary</button>
